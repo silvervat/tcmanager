@@ -1,0 +1,5 @@
+{
+  "name": "Assembly Installer",
+  "description": "Trimble Connect extension for tracking assembly installation status.",
+  "requestFramePermissions": []
+}
